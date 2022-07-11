@@ -1,0 +1,1 @@
+web:gunicorn danpExamen2.wsgi
