@@ -1,1 +1,1 @@
-web: gunicorn danpExamen2.wsgi --log-file -
+web: gunicorn danpexamen2.wsgi --log-file -
